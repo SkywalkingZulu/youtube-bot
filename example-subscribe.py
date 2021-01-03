@@ -4,6 +4,6 @@ from Bot import Bot
 bot = Bot('/Users/**/Downloads/chromedriver')
 
 bot.goto_youtube() \
-    .login(email='your@email', password='password') \
+    .login(email='andilexmchunu@gmail.com', password='A78512345') \
     .subscribe(channelId='uisdg22g') \
     .end()
