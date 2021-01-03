@@ -5,5 +5,5 @@ bot = Bot('/Users/**/Downloads/chromedriver')
 
 bot.goto_youtube() \
     .login(email='andilexmchunu@gmail.com', password='A78512345') \
-    .subscribe(channelId='uisdg22g') \
+    .subscribe(channelId='UCURlLebPrBv_mZXfzcflSoA' \
     .end()
